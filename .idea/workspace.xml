@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454ef35d-b1b4-4904-b8b0-a5f99be98127" name="Changes" comment="Initial commit of calc project on python">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_list asssignment.py" afterDir="false" />
+    <list default="true" id="454ef35d-b1b4-4904-b8b0-a5f99be98127" name="Changes" comment="my_list assignment commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.my_list assignment.executor": "Run",
     "Python.my_list asssignment.executor": "Run",
     "Python.week 2 assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742638936884</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1742640139636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742640139636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="my_list assignment commit">
+      <option name="closed" value="true" />
+      <created>1742802167147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742802167147</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of calc project on python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of calc project on python" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="my_list assignment commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="my_list assignment commit" />
   </component>
 </project>
