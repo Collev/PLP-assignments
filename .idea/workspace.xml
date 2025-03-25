@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454ef35d-b1b4-4904-b8b0-a5f99be98127" name="Changes" comment="my_list assignment commit" />
+    <list default="true" id="454ef35d-b1b4-4904-b8b0-a5f99be98127" name="Changes" comment="calculate_discount assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.calculate-dicount.executor": "Run",
     "Python.my_list assignment.executor": "Run",
     "Python.my_list asssignment.executor": "Run",
+    "Python.redo assignment discount.executor": "Run",
     "Python.week 2 assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -100,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742802167147</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="calculate_discount assignment">
+      <option name="closed" value="true" />
+      <created>1742834651107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742834651107</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +130,7 @@
     <MESSAGE value="Initial commit of calc project on python" />
     <MESSAGE value="first commit" />
     <MESSAGE value="my_list assignment commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my_list assignment commit" />
+    <MESSAGE value="calculate_discount assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate_discount assignment" />
   </component>
 </project>
