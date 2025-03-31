@@ -26,3 +26,28 @@ class EBook(Book):
         return f"{base_info}, File Size: {self._file_size} MB"
 
 
+class Animal:
+    def move(self):
+        raise NotImplementedError("Subclasses must implement this method")
+
+
+
+class Bird(Animal):
+    def move(self):
+        print("Flying")
+
+
+
+class Fish(Animal):
+    def move(self):
+        print("Swimming")
+
+
+# Derived class: Cat
+class Cat(Animal):
+    def move(self):
+        print("Walking")
+
+
+
+
