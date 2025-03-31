@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -28,12 +29,12 @@
     &quot;assignee&quot;: &quot;Collev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Collev/redo-discount-assignment.git",
-    "accountId": "157678ae-e52e-4609-9a89-2ff9275663cd"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Collev/redo-discount-assignment.git&quot;,
+    &quot;accountId&quot;: &quot;157678ae-e52e-4609-9a89-2ff9275663cd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,19 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.calculate-dicount.executor": "Run",
-    "Python.my_list assignment.executor": "Run",
-    "Python.my_list asssignment.executor": "Run",
-    "Python.redo assignment discount.executor": "Run",
-    "Python.week 2 assignment.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.calculate-dicount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_list assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_list asssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.redo assignment discount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week 2 assignment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
